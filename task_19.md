@@ -5,7 +5,6 @@ Task-019: Launch EC2 Windows Server 2025 Instance and connect via RDP — screen
 Open the AWS Console in your browser and log in. In the top search bar, type "EC2" and click on the EC2 Dashboard.
 Verification: You should see the main EC2 Dashboard page load successfully.
 
-##Here I have edited this as a user rajveerdivrala01
 2. Launch Instance
 
 On the EC2 Dashboard, click the orange "Launch instance" button.
